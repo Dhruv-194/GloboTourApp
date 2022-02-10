@@ -13,3 +13,4 @@ The app shows a list of cities in recyclerview inside a material designed cardvi
 - Adding NAvigation Drawer : Bottom Navigation Bar 
 
 ## Screenshots :
+<img src = "Screenshots/Screenshot_1644517924.png" width = "200" height = "400" > <img src = "Screenshots/Screenshot_1644518037.png" width = "200" height = "400" hspace="20"> <img src = "Screenshots/Screenshot_1644518043.png" width = "200" height = "400">
